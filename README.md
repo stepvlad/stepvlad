@@ -29,4 +29,4 @@ Hi, i'm [Vladislav Stepanenko](), a passionate self-taught full stack web develo
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=traumerei96&show_icons=true&theme=gotham" alt="traumerei96" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stepvlad&show_icons=true&theme=gotham" alt="Vladislav Stepanenko" />
