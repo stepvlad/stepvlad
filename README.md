@@ -36,6 +36,13 @@ https://profile-readme-generator.com/
 <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=4DB33D" />
 <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=D82C20"/>
 <img src="https://img.shields.io/badge/Valkey-black?style=for-the-badge&logo=ValkeyDB&logoColor=6983FF"/>
+</div>
+
+<div>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=FFFF00"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=f34f29" />
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=2560FF"/>
+<img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes&logoColor=326CE5"/>
 </div> 
 
 ## 📈 my github stats
