@@ -35,7 +35,6 @@ https://profile-readme-generator.com/
 <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=00ADD8"/>
 <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=4DB33D" />
 <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=D82C20"/>
-<img src="https://img.shields.io/badge/Valkey-black?style=for-the-badge&logo=ValkeyDB&logoColor=6983FF"/>
 </div>
 
 <div>
