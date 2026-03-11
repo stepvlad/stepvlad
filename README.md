@@ -1,32 +1,42 @@
 # stepvlad
-## Vladislav
-
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://twitter.com/StepanenkoVlad3">
-  <img align="left" alt="Vladislav Stepanenko | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vladislav-stepanenko-a705a01b4/">
-  <img align="left" alt="Vladislav Stepanenko | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=traumerei96.traumerei96)
-
-<br />
-
 Hi, i'm [Vladislav Stepanenko](), a passionate self-taught full stack web developer and a freelance software engineer from Russia.
 
-### Languages and tools:
+<div align="center">
+  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/-Telegram-27A7E7?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://linkedin.com/in/твой-профиль"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"/></a>
+  <a href="https://twitter.com/твой_ник"><img src="https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://youtube.com/твой_ник"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://discord.com/твой_ник"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discordr&logoColor=white" alt="Discord"/></a>
+</div>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="React"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PosgreSQL" title="PostgreSQL"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" title="MongoDB"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+<!-- 
+Где взять готовые бейджи и цвета:https://shields.io/category/social  
+https://github.com/alexandresanlim/Badges4-README.md-Profile (очень большая коллекция)
+Генераторы README (ещё проще):https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://profile-readme-generator.com/
+-->
 
-📈 my github stats
+## Languages and tools:
 
+<div>
+<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=6495ED"/>
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust&logoColor=B7410E"/>
+<img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go&logoColor=00ADD8"/>
+</div> 
+
+<div>
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=E44D26"/>
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=8b00ff"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F0DB4F" />
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6"/>
+</div> 
+
+<div>
+<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=4DB33D" />
+<img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=D82C20"/>
+<img src="https://img.shields.io/badge/Valkey-black?style=for-the-badge&logo=ValkeyDB&logoColor=6983FF"/>
+</div> 
+
+## 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stepvlad&show_icons=true&theme=gotham" alt="Vladislav Stepanenko" />
